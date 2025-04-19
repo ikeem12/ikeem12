@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d3eb4c10-6012-4afa-927e-f22dce9c5648" widht="100%" height="400px" alt="my banner">
 </div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Winky+Rough&size=50&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Backend+developer;API+Design+%26+Databases;Always+learning+something+new;Clean.+Scalable.+Maintainable." alt="Typing SVG" /></a>
 <!--
 **ikeem12/ikeem12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
