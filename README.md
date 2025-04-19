@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4c4ed133-adac-406f-bc6b-0e51c43709e9" width="1280px" height="320px" alt="my banner">
+  <img src="https://github.com/user-attachments/assets/4c4ed133-adac-406f-bc6b-0e51c43709e9" alt="my banner">
 </div>
 <!--
 **ikeem12/ikeem12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
