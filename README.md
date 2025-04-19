@@ -1,12 +1,12 @@
-<p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?  font=Winky+Rough&size=50&duration=3500&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Hi!+I'm+Johan+Cardenas;I'm+Backend+developer" alt="Typing SVG" />
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d3eb4c10-6012-4afa-927e-f22dce9c5648" widht="100%" height="400px" alt="my banner"/>
+</p>
+<br>
+<p align="center>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Gothic+Condensed+One&color=cyan&size=50&&duration=3500&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi!+I'm+Johan+Cardenas;I'm+Backend+developer;Always+learning+something+new;Keep+it+simple%2C+make+it+powerful"></a>
   </a>
 </p>
-</div>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d3eb4c10-6012-4afa-927e-f22dce9c5648" widht="100%" height="400px" alt="my banner"/>
-</div>
 <!--
 **ikeem12/ikeem12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ChatGPT Image 19 abr 2025, 23_34_42 (1)](https://github.com/user-attachments/assets/d3eb4c10-6012-4afa-927e-f22dce9c5648)
