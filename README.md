@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c7a154b4-1305-4a4a-83d5-f84a49e963c7" width="1280px" height="320px" alt="my banner">
+  <img src="https://github.com/user-attachments/assets/b9e7322f-a5fa-4b95-91be-218399dddead" width="1280px" height="320px" alt="my banner">
 </div>
 <!--
 **ikeem12/ikeem12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...![ChatGPT Image 19 abr 2025, 23_34_42 (2)](https://github.com/user-attachments/assets/b9e7322f-a5fa-4b95-91be-218399dddead)
+
 - ⚡ Fun fact: ...
 -->
