@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3c852f9b-54c9-4e42-962c-d33c212648db" width="1280px" height="320px" alt="my banner">
+  <img src="https://github.com/user-attachments/assets/c7a154b4-1305-4a4a-83d5-f84a49e963c7" width="1280px" height="320px" alt="my banner">
 </div>
 <!--
 **ikeem12/ikeem12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
